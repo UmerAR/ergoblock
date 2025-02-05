@@ -1,5 +1,5 @@
 # ErgoBlock
-A wired split 3x6 column staggered keyboards with 3 thumb keys and an aggressive pinkie stagger
+A wired split 3x6 column staggered keyboards with 3 thumb keys, an aggressive pinkie stagger, and low profile switches
 
 ![v1](https://github.com/UmerAR/ergoblock/blob/d921cbc88ad2e90b6144f46ed39c64d9b18dfe1f/images/20250205_153957.png)
 
