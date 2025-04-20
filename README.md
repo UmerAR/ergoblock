@@ -8,7 +8,7 @@ maybe next keyboard i'll make it wireless
 ## Keymap
 QWERTY layout with home row mods and a custom symbol and navigation layer. stuck with qwerty since I'm still in school, might switch to something more efficient in the future.
 
-![keymap](https://github.com/UmerAR/ergoblock/blob/57a3341233d769a601b216b79932f94e143507b2/images/keymap.png)
+![keymap](https://github.com/UmerAR/ergoblock/blob/52a2d54437b088d36cf9c02ef9aebd64894e7a56/images/keymap.png)
 
 ## Parts
 PCB was designed in KiCad using Ergogen and ordered using JLCPCB
