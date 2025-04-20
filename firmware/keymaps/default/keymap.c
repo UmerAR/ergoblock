@@ -64,7 +64,7 @@ const uint16_t PROGMEM keymaps[][MATRIX_ROWS][MATRIX_COLS] = {
       *               ┌───┐                   ┌───┐
       *               │Tab├───┐           ┌───┤Bsp│
       *               └───┤Spc├───┐   ┌───┤Ent├───┘
-      *                   └───┤   │   │Nav├───┘
+      *                   └───┤   │   │   ├───┘
       *                       └───┘   └───┘
       */
     [NUM] = LAYOUT_split_3x6_3(
