@@ -2,21 +2,27 @@
     "manufacturer": "Umer Abdur Rehman",
     "keyboard_name": "ergoblock",
     "maintainer": "UmerAR",
+    "url": "https://github.com/UmerAR/ergoblock",
     "development_board": "promicro",
     "diode_direction": "COL2ROW",
     "features": {
         "bootmagic": true,
-        "command": false,
-        "console": false,
         "extrakey": true,
-        "mousekey": true,
-        "nkro": true
+        "mousekey": true
+    },
+    "host": {
+        "default": {
+            "nkro": true
+        }
+    },
+    "caps_word": {
+        "enabled": true,
+        "both_shifts_turns_on": true
     },
     "matrix_pins": {
         "cols": ["F7", "B1", "B3", "B2", "B6", "B4"],
         "rows": ["F4", "F5", "F6", "B5"]
     },
-    "url": "",
     "split": {
         "enabled": true,
         "serial": {
@@ -83,3 +89,4 @@
             ]
         }
     }
+}
